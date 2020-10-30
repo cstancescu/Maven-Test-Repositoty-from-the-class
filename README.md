@@ -1,0 +1,1 @@
+# Maven-Test-Repositoty-from-the-class
